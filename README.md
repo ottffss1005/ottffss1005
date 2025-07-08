@@ -51,11 +51,11 @@
 
 ## 🚩 Projects
 
-|            Title            |   Stack   |   Duration   |     Organization     |                             More                             |
+|            Title            |   Stack   |   Duration   |     Role     |                             More                             |
 | :-------------------------: | :-------: | :----------: | :------------------: | :----------------------------------------------------------: |
-| 사내 업무 관리 및 공유 시스템 SOSOSO        |     Node.js & React & MongoDB       |              |                      | [Github](https://github.com/CSID-DGU/2024-1-SCS4031-01-sososo-3.git) |
-| SNS 사진 보안 필터링 웹사이트 개발         |    Node.js & React & MongoDB & DJANGO & Python       |              |                      | [Github](https://github.com/ottffss1005/0303.git)            |
-| 오픈소스 활용 피자 배달 게임          |   Python     |              |                      | [Github](https://github.com/CSID-DGU/2022-2-OSSProj-PiPizza-2.git) |
+| 사내 업무 관리 및 공유 시스템 SOSOSO        |     Node.js & React & MongoDB       |              |     Backend              | [Github](https://github.com/CSID-DGU/2024-1-SCS4031-01-sososo-3.git) |
+| SNS 사진 보안 필터링 웹사이트 개발         |    Node.js & React & MongoDB & DJANGO & Python       |              |         Backend & 기획          | [Github](https://github.com/ottffss1005/0303.git)            |
+| 오픈소스 활용 피자 배달 게임          |   Python     |              |        기획&스테이지 적용        | [Github](https://github.com/CSID-DGU/2022-2-OSSProj-PiPizza-2.git) |
 
 <br>
 
