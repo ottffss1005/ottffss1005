@@ -5,7 +5,7 @@
 
 <p align="center">
   Studying Industrial Engineering at DGU<br>
-  Multimajor in Software Engineering<br>
+  Interdisciplinary Major Software Engineering<br>
   Passionate about development & project planning
 </p>
 
@@ -41,10 +41,6 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ottffss1005&layout=compact)
-
-![SoYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ottffss1005&show_icons=true&theme=radical)
-
 </div>
 
 <br>
@@ -61,9 +57,26 @@
 
 ## 🚀 Studying
 
-|        Title         |    Stack    |             More              |
+|        Title         |    Duration    |             More              |
 | :------------------: | :---------: | :---------------------------: |
-| MySQL & Oracle Study          |   | (https://github.com/ottffss1005/MySQL_Oracle_Study.git)  |
-| GitHub Study      |    | 예: 강의 노트, GitHub 링크 등 |
+| MySQL & Oracle Study          | ~~  | (https://github.com/ottffss1005/MySQL_Oracle_Study.git)  |
+| GitHub Study      |  ~~  | (https://github.com/FISA-STUDY/Github-study.git) |
 
 <br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohtaewoo&layout=donut&theme=default&hide_border=true&bg_color=ffffff&title_color=DA5B0B" width="40%"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=kohtaewoo&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=DA5B0B" width="56%"/>
+  </a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=footer&text=&fontSize=0" width="100%"/>
