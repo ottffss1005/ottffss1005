@@ -63,7 +63,7 @@
 
 |        Title         |    Stack    |             More              |
 | :------------------: | :---------: | :---------------------------: |
-| MySQL & Oracle Study          |   | 예: 교재명, 강의명, 링크 등  |
+| MySQL & Oracle Study          |   | (https://github.com/ottffss1005/MySQL_Oracle_Study.git)  |
 | GitHub Study      |    | 예: 강의 노트, GitHub 링크 등 |
 
 <br>
