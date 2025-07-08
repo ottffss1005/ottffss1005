@@ -47,6 +47,8 @@
 
 </div>
 
+<br>
+
 ## 🚩 Projects
 
 |            Title            |   Stack   |   Duration   |     Organization     |                             More                             |
@@ -55,3 +57,13 @@
 | SNS 사진 보안 필터링 웹사이트 개발         |    Node.js & React & MongoDB & DJANGO & Python       |              |                      | [Github](https://github.com/ottffss1005/0303.git)            |
 | 오픈소스 활용 피자 배달 게임          |   Python     |              |                      | [Github](https://github.com/CSID-DGU/2022-2-OSSProj-PiPizza-2.git) |
 
+<br>
+
+## 🚀 Studying
+
+|        Title         |    Stack    |             More              |
+| :------------------: | :---------: | :---------------------------: |
+| MySQL & Oracle Study          |   | 예: 교재명, 강의명, 링크 등  |
+| GitHub Study      |    | 예: 강의 노트, GitHub 링크 등 |
+
+<br>
