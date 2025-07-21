@@ -1,5 +1,5 @@
 <!-- 헤더 이미지 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!%20SY&fontSize=90&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!%2&fontSize=80&animation=fadeIn&fontAlignY=38)
 
 ## 👋 So Young Choi's GitHub
 
@@ -59,8 +59,9 @@
 
 |        Title         |    Duration    |             More              |
 | :------------------: | :---------: | :---------------------------: |
-| MySQL & Oracle Study          | ~~  | (https://github.com/ottffss1005/MySQL_Oracle_Study.git)  |
+| MySQL Partition study    | ~~  | (https://github.com/ottffss1005/MySQL_Partition.git) |
 | GitHub Study      |  ~~  | (https://github.com/FISA-STUDY/Github-study.git) |
+
 
 <br>
 
