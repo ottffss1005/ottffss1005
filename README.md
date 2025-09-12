@@ -85,10 +85,11 @@ Enjoying studying various IT technologies, communicate with various people and s
 ## 🚩 Projects
 
 |            Title            |   Stack   |   Photo   |     Role     |                             More                             |
-| :-------------------------: | :-------: | :----------: | :------------------: | :----------------------------------------------------------: |
-| 사내 업무 관리 및 공유 시스템 SOSOSO        |     Node.js & React & MongoDB       |   <img width="452" height="281" alt="Image" src="https://github.com/user-attachments/assets/54ebacee-d338-49fd-8ee2-31647c786e98" />           |     Backend              | [Github](https://github.com/CSID-DGU/2024-1-SCS4031-01-sososo-3.git) |
-| SNS 사진 보안 필터링 웹사이트 개발         |    Node.js & React & MongoDB & DJANGO & Python       | <img width="1485" height="946" alt="Image" src="https://github.com/user-attachments/assets/40986df6-c965-4435-af55-808c4dcc3348" />             |         Backend & 기획          | [Github](https://github.com/ottffss1005/0303.git)            |
-| 오픈소스 활용 피자 배달 게임          |   Python     |  ![Image](https://github.com/user-attachments/assets/2b16313a-6bd1-4f7b-b398-52ae36c6956c)            |        기획&스테이지 적용        | [Github](https://github.com/CSID-DGU/2022-2-OSSProj-PiPizza-2.git) |
+| :-------------------------: | :-------: | :-------: | :----------: | :----------------------------------------------------------: |
+| 사내 업무 관리 및 공유 시스템 SOSOSO | Node.js & React & MongoDB | <img width="400" alt="SOSOSO" src="https://github.com/user-attachments/assets/54ebacee-d338-49fd-8ee2-31647c786e98" /> | Backend | [Github](https://github.com/CSID-DGU/2024-1-SCS4031-01-sososo-3.git) |
+| SNS 사진 보안 필터링 웹사이트 개발 | Node.js & React & MongoDB & DJANGO & Python | <img width="400" alt="SNS Filter" src="https://github.com/user-attachments/assets/40986df6-c965-4435-af55-808c4dcc3348" /> | Backend & 기획 | [Github](https://github.com/ottffss1005/0303.git) |
+| 오픈소스 활용 피자 배달 게임 | Python | <img width="400" alt="Pizza Game" src="https://github.com/user-attachments/assets/2b16313a-6bd1-4f7b-b398-52ae36c6956c" /> | 기획 & 스테이지 적용 | [Github](https://github.com/CSID-DGU/2022-2-OSSProj-PiPizza-2.git) |
+
 
 <br>
 
