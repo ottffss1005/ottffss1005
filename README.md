@@ -1,47 +1,84 @@
 <!-- 헤더 이미지 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!%2&fontSize=80&animation=fadeIn&fontAlignY=38)
 
-## 👋 So Young Choi's GitHub
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=Soyoung%27s%20Hub%20👻&fontSize=40&fontColor=ffffff)
 
-<p align="center">
-  Studying Industrial Engineering at DGU<br>
-  Interdisciplinary Major Software Engineering<br>
-  Passionate about development & project planning
-</p>
+## 👋 Who AM I?
+Soyoung Choi, interested in quality management and IT issues. 
+I've explored Backend Development and Data Analysis with Python and now enjoying cloud technologies.
+Enjoying studying various IT technologies, communicate with various people and sharing opinions.
 
-<div align="center">
-  <a href="mailto:lch010201@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lch010201@gmail.com"/>
-  </a>
-  <a href="https://www.notion.so/yourusername">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/yourusername"/>
-  </a>
-</div>
 
-<br>
+🚀 Main interests
+- **백엔드 & 데이터베이스**: Spring Boot, Node.js, MySQL, JDBC  
+- **보안**: IoT 보안, 블록체인 기반 보안 시스템 연구  
+- **서비스 기획 & 디자인**: UI/UX, Figma, IA 설계, API 설계  
+- **데이터 분석 & 머신러닝**: Python 기반 데이터 전처리, 시각화, 모델링  
+- **클라우드 & 가상화**: Docker, VMware, Kubernetes
 
-<h3 align="center">✨ Tech Stack ✨</h3>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
-</div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-</div>
-
-<br>
-
-<div align="center">
-
-</div>
+### 📚 Tech Skills
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>OS</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=square&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=square&logo=windows&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Languages</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-007396?style=square&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/SQL-336791?style=square&logo=sqlite&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+      <td><strong>Backend</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Django-092E20?style=square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=square&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=square&logo=springboot&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Database</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=square&logo=oracle&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Cloud · Infra</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/VMware-607078?style=square&logo=vmware&logoColor=white" />
+        <img src="https://img.shields.io/badge/Packet_Tracer-0066CC?style=square&logo=cisco&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tools · DevOps</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=square&logo=eclipseide&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=square&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitLab-FC6D26?style=square&logo=gitlab&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=square&logo=googlecolab&logoColor=white" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 
