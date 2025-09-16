@@ -65,6 +65,7 @@ Enjoying studying various IT technologies, communicate with various people and s
         <img src="https://img.shields.io/badge/Docker-2496ED?style=square&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/VMware-607078?style=square&logo=vmware&logoColor=white" />
         <img src="https://img.shields.io/badge/Packet_Tracer-0066CC?style=square&logo=cisco&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
       </td>
     </tr>
     <tr>
