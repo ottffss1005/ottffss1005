@@ -57,6 +57,7 @@ Enjoying studying various IT technologies, communicate with various people and s
       <td>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/Oracle-F80000?style=square&logo=oracle&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=square&logo=mongodb&logoColor=white">
       </td>
     </tr>
     <tr>
