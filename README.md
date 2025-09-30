@@ -100,8 +100,8 @@ Enjoying studying various IT technologies, communicate with various people and s
 
 |        Title         |    Duration    |             More              |
 | :------------------: | :---------: | :---------------------------: |
-| MySQL Partition study    | ~~  | (https://github.com/ottffss1005/MySQL_Partition.git) |
-| GitHub Study      |  ~~  | (https://github.com/FISA-STUDY/Github-study.git) |
+| MySQL Partition study    |   | (https://github.com/ottffss1005/MySQL_Partition.git) |
+| GitHub Study      |    | (https://github.com/FISA-STUDY/Github-study.git) |
 
 
 <br>
