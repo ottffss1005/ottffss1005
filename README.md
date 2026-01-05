@@ -2,19 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=Soyoung%27s%20Hub%20👻&fontSize=40&fontColor=ffffff)
 
-## 👋 Who AM I?
+## 👋 About Me
 Soyoung Choi, interested in quality management and IT issues. 
-I've explored Backend Development and Data Analysis with Python and now enjoying cloud technologies.
+I've explored Backend Development and Cloud Engineering that constructing or managing server infra systems. Also passinate with Product Management and Data Analysis with Python.
 Enjoying studying various IT technologies, communicate with various people and sharing opinions.
-
-
-🚀 Main interests
-- **백엔드 & 데이터베이스**: Spring Boot, Node.js, MySQL, JDBC  
-- **보안**: IoT 보안, 블록체인 기반 보안 시스템 연구  
-- **서비스 기획 & 디자인**: UI/UX, Figma, IA 설계, API 설계  
-- **데이터 분석 & 머신러닝**: Python 기반 데이터 전처리, 시각화, 모델링  
-- **클라우드 & 가상화**: Docker, VMware, Kubernetes
-
 
 
 ### 📚 Tech Skills
@@ -58,6 +49,7 @@ Enjoying studying various IT technologies, communicate with various people and s
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/Oracle-F80000?style=square&logo=oracle&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=square&logo=mongodb&logoColor=white">
+        <img src="https://img.shields.io/badge/Redis-FF4438?style=square&logo=redis&logoColor=white">
       </td>
     </tr>
     <tr>
@@ -67,6 +59,7 @@ Enjoying studying various IT technologies, communicate with various people and s
         <img src="https://img.shields.io/badge/VMware-607078?style=square&logo=vmware&logoColor=white" />
         <img src="https://img.shields.io/badge/Packet_Tracer-0066CC?style=square&logo=cisco&logoColor=white" />
         <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
       </td>
     </tr>
     <tr>
