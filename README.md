@@ -81,37 +81,22 @@ Enjoying studying various IT technologies, communicate with various people and s
 
 |            Title            |   Stack   |   Photo   |     Role     |                             More                             |
 | :-------------------------: | :-------: | :-------: | :----------: | :----------------------------------------------------------: |
-| 사내 업무 관리 및 공유 시스템 SOSOSO | Node.js & React & MongoDB | <img width="650" alt="SOSOSO" src="https://github.com/user-attachments/assets/54ebacee-d338-49fd-8ee2-31647c786e98" /> | Backend | [Github](https://github.com/CSID-DGU/2024-1-SCS4031-01-sososo-3.git) |
-| SNS 사진 보안 필터링 웹사이트 개발 | Node.js & React & MongoDB & DJANGO & Python | <img width="650" alt="SNS Filter" src="https://github.com/user-attachments/assets/40986df6-c965-4435-af55-808c4dcc3348" /> | Backend & 기획 | [Github](https://github.com/ottffss1005/0303.git) |
-| 오픈소스 활용 피자 배달 게임 | Python | <img width="650" alt="Pizza Game" src="https://github.com/user-attachments/assets/2b16313a-6bd1-4f7b-b398-52ae36c6956c" /> | 기획 & 스테이지 적용 | [Github](https://github.com/CSID-DGU/2022-2-OSSProj-PiPizza-2.git) |
-
+| 하이브리드 클라우드 기반 프라이빗 동영상 공유 플랫폼 | Java, SprinBoot, Kubernetes, etc | <img width="550" height="250" alt="Privideo" src="https://private-user-images.githubusercontent.com/88383179/523648167-a93a8d41-de28-4b55-b559-1ecd48f29c9e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc1OTg3NzIsIm5iZiI6MTc2NzU5ODQ3MiwicGF0aCI6Ii84ODM4MzE3OS81MjM2NDgxNjctYTkzYThkNDEtZGUyOC00YjU1LWI1NTktMWVjZDQ4ZjI5YzllLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTA1VDA3MzQzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkwYWFkMzJkMDQ1OGUyMWNkYTExYmYwNzYwZDI5OGJjZmY5ZWVjNDE1YzY0YzhiNGJiYjA2NzliZmM2MDJjODImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.XDlf9CvY-Fs_8qwJ73uRvHS_Ytxw5vjQ09Ydz7vFADw" /> | 백엔드 & 인프라 | [Github](https://github.com/AllStackProject) | 
+| 사내 업무 관리 및 공유 시스템 SOSOSO | Node.js, React | <img width="550" height="250" alt="SOSOSO" src="https://github.com/user-attachments/assets/54ebacee-d338-49fd-8ee2-31647c786e98" /> | Backend | [Github](https://github.com/CSID-DGU/2024-1-SCS4031-01-sososo-3.git) |
+| SNS 사진 보안 필터링 웹사이트 개발 | Node.js, React, MongoDB , DJANGO, Python | <img width="550" height="250" alt="SNS Filter" src="https://github.com/user-attachments/assets/40986df6-c965-4435-af55-808c4dcc3348" /> | Backend & 기획 | [Github](https://github.com/ottffss1005/0303.git) |
 
 
 <br>
 
-## 🚀 Studying
+## 🚀 Mini Projects
 
-|        Title         |    Duration    |             More              |
+|        Title         |   Stack   |             More              |
 | :------------------: | :---------: | :---------------------------: |
-| MySQL Partition study    |   | (https://github.com/ottffss1005/MySQL_Partition.git) |
-| GitHub Study      |    | (https://github.com/FISA-STUDY/Github-study.git) |
+| MySQL Partition study    | MySQL, Python  | (https://github.com/ottffss1005/MySQL_Partition.git) |
+| Kubernetes mini study   | Kubernetes, Nginx  | (https://github.com/FISA-STUDY/Github-study.git) |
+| Linux Log Analysis & Crontab  | Linux, MySQL | (https://github.com/ottffss1005/Linux_LogAnalysis.git), (https://github.com/ottffss1005/MYSQL_Backup.git) |
 
 
 <br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ottffss1005&layout=donut&theme=default&hide_border=true&bg_color=ffffff&title_color=DA5B0B" width="40%"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ottffss1005&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=DA5B0B" width="56%"/>
-  </a>
-
-</div>
-
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=footer&text=&fontSize=0" width="100%"/>
