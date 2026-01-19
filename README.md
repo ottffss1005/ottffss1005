@@ -92,8 +92,9 @@ Enjoying studying various IT technologies, communicate with various people and s
 
 |        Title         |   Stack   |             More              |
 | :------------------: | :---------: | :---------------------------: |
-| MySQL Partition study    | MySQL, Python  | (https://github.com/ottffss1005/MySQL_Partition.git) |
-| Kubernetes mini study   | Kubernetes, Nginx  | (https://github.com/FISA-STUDY/Github-study.git) |
+| 배달의 달인 미니 게임 개발 |     Python     | ((https://github.com/ottffss1005/2022-2-OSSProj-PiPizza-2.git) |
+| MySQL Partition 관련     | MySQL, Python  | (https://github.com/ottffss1005/MySQL_Partition.git) |
+| Kubernetes mini study    | Kubernetes     | (https://github.com/FISA-STUDY/Github-study.git) |
 | Linux Log Analysis & Crontab  | Linux, MySQL | (https://github.com/ottffss1005/Linux_LogAnalysis.git), (https://github.com/ottffss1005/MYSQL_Backup.git) |
 
 
